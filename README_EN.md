@@ -1,4 +1,4 @@
-## [中文简介](https://github.com/zhiwen-chen/V-REP_scenes/README.md "中文简介")
+## [中文简介](https://github.com/zhiwen-chen/V-REP_scenes/blob/master/README.md "中文简介")
 
 August 2018
 
